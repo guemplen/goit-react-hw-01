@@ -1,4 +1,4 @@
-import styles from './friend.module.css'
+import styles from './friends.module.css'
 
 const FriendList = ({ friends }) => (
   <ul className={styles.list}>
